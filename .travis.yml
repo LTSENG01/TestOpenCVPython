@@ -12,5 +12,5 @@ python:
 script:
 - python main.py
 
-dist: xenial
+dist: trusty
 sudo: required
